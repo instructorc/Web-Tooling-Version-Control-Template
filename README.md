@@ -36,7 +36,7 @@ Using the same project from the previous deliverable.  Open the index.html file 
 ## Deliverable 3
 Continuing from the previous deliverable
 1. Via the terminal, run the commands to push up your local repository to the remote repository.
-2. Create a "README.md" file to include the following bullet points below
+2. Copy the exisiting text in the readme.md file to a text file title "instructions.txt" and Overwrite the existing "README.md" file to include the following bullet points below
     1. Using a h1 heading syntax in markdown - Provide a title with the text "Full-stack Nodejs Boxing Stat App"
     2. Using a paragraph syntax in markdown - Provide a brief description with text below
        * "This application will display boxing data on current and previous boxing professionals.  Lab 1 is focused on project set-up and version control.  Lab 2 focuses on working with Express framework the user to Create, Retrieve, Update and Delete Boxing data.  
