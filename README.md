@@ -52,7 +52,7 @@ Continuing from the previous deliverable
 3. Copy the all of the content within index.html file paste into the the enterboxer.html file. 
 4. Open the enterboxer.html file within editor and locate the ```<section id="one" class="tiles">``` and delete all of the children ```<article>``` tags and save the file.  
 5. Commit the changes  for the "createboxerpage" branch.  Commit message should be "adding enterboxer.html page"
-6. Switch branches back to master branch and merge the "createboxerpage" branch into the master branch.
+6. Switch branches back to master branch and merge the "createboxerpage" branch into the main branch.
 7. Delete the "createboxerpage" branch.
 8. Make a commit to your local repository and push up changes to your remote repository.
  
